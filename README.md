@@ -29,7 +29,9 @@
 | NLP                                       | 自然语言处理             | Natural Language Processing                  | 自然语言处理是人工智能领域的一个重要分支。                   |
 | NLU                                       | 自然语言理解             | Neural Language Understanding                |                                                              |
 | NLG                                       | 自然语言生成             | Neural Language Generation                   |                                                              |
-| LLM                                       | 大语言模型               | Large Language Model                         |                                                              |
+| Transformer                                       | Transformer 中文为“变换器”，但不够达雅，日常还是称英文               |                          |                                                              |
+| LLM                                       | 大语言模型              | Large Language Model                         | 狭义上也常称为“大模型”                                                            |
+| GPT                                       | 生成式预训练Transformer模型               | Generative Pre-trained Transformer                         |                                                              |
 | SFT                                       | 监督微调                 | Supervised Fine-Tuning                       |                                                              |
 | LoRA                                      | 大型语言模型的低秩自适应 | Low-Rank Adaptation of Large Language Models | 是一种降低模型可训练参数，又尽量不损失模型表现的大模型微调方法。 |
 | RLHF                                      | 人类反馈的强化学习       | Reinforcement Learning from Human Feedback   |                                                              |
@@ -41,6 +43,7 @@
 | Machine Translation                       | 机器翻译                 |                                              |                                                              |
 | Word Segmentation                         | 分词                     |                                              |                                                              |
 | POS                                       | 词性标注                 | Part-of-speech Tagging                       |                                                              |
+| Pretrained                                       | 预训练                 |                        |                                                              |
 | Pre-trained Language Representation Model | 预训练语言表示模型       |                                              |                                                              |
 | fine tuning                               | 微调                     |                                              |                                                              |
 
